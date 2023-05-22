@@ -1,1 +1,9 @@
 echo "Fetching modules"
+git clone https://github.com/sbonnet-dev/terraform-module-azure_resource_group.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_cognitive_account.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_cognitive_deployment.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_search_service.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module-storage_account.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_storage_container.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_service_plan.git?ref=main
+git clone https://github.com/sbonnet-dev/terraform-module_linux_web_app.git?ref=main
